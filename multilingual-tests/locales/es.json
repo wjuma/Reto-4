@@ -1,4 +1,6 @@
 {
-  "title": "Hola",
-  "description": "Esta es una página de prueba multilingüe."
+  "title": "Prueba de Localización",
+  "description": "Esta app prueba traducciones, fechas y pluralización.",
+  "save": "Guardar Cambios",
+  "files": "{count, plural, =0 {Sin archivos} one {# archivo} other {# archivos}}"
 }
